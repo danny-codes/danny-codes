@@ -7,11 +7,6 @@ I'm an aspiring web developer passionate about building cool things! Currently, 
 - Planning to learn **React**, **Node.js**, and other web technologies.
 - Diving into **SQL** more deeply and improving my database knowledge.
 
-## 🌱 I'm currently learning:
-- **Frontend technologies**: HTML, CSS, JavaScript.
-- **Version Control** with **Git** and **GitHub**.
-- Planning to learn **React**, **Node.js**, and to dive into **SQL**.
-
 ## 📫 How to reach me:
 - GitHub: [danny-codes](https://github.com/danny-codes)
 - LinkedIn: [WIP](#)
