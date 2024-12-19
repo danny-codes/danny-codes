@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Daniel! 👋
 
-<!--
-**danny-codes/danny-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring web developer passionate about building cool things! Currently, I'm diving into **Frontend Development** with a focus on **HTML**, **CSS**, and **JavaScript**. I’m excited to explore **JS frameworks** and continue expanding my skill set to become a full-stack developer. I'm also eager to dive into **Backend Development** soon and build even more dynamic web applications. 💻✨
 
-Here are some ideas to get you started:
+## 🚀 What I'm working on:
+- Learning and practicing **HTML**, **CSS**, **JavaScript**, **Git** & **GitHub**.
+- Planning to learn **React**, **Node.js**, and other web technologies.
+- Diving into **SQL** more deeply and improving my database knowledge.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 I'm currently learning:
+- **Frontend technologies**: HTML, CSS, JavaScript.
+- **Version Control** with **Git** and **GitHub**.
+- Planning to learn **React**, **Node.js**, and to dive into **SQL**.
+
+## 📫 How to reach me:
+- GitHub: [danny-codes](https://github.com/danny-codes)
+- LinkedIn: [WIP](#)
+- Twitter: [WIP](#)
+
+Feel free to explore my repositories, I'm always working on something new and learning as I go!
