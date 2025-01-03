@@ -1,11 +1,16 @@
 # Hi there, I'm Daniel! 👋
 
-I'm an aspiring web developer passionate about building cool things! Currently, I'm diving into **Frontend Development** with a focus on **HTML**, **CSS**, and **JavaScript**. I’m excited to explore **JS frameworks** and continue expanding my skill set to become a full-stack developer. I'm also eager to dive into **Backend Development** soon and build even more dynamic web applications. 💻✨
+I'm an aspiring web developer, currently learning and practicing **HTML**, **CSS**, and **JavaScript**. I'm really excited about creating websites and building something cool from scratch! I’m eager to expand my skills, improve my knowledge, and gain more experience in web development.
 
 ## 🚀 What I'm working on:
-- Learning and practicing **HTML**, **CSS**, **JavaScript**, **Git** & **GitHub**.
-- Planning to learn **React**, **Node.js**, and other web technologies.
-- Diving into **SQL** more deeply and improving my database knowledge.
+- Practicing and improving my **HTML**, **CSS** and **Git** skills.
+- Learning **JavaScript**.
+
+## 💻 **What I plan to work on next:**
+ 
+- Diving into **React** to build more interactive user interfaces.
+- Learning **Node.js** to start exploring Backend Development.
+- Improving my database knowledge by diving deeper into **SQL** and related technologies.
 
 ## 📫 How to reach me:
 - GitHub: [danny-codes](https://github.com/danny-codes)
