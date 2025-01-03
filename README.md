@@ -2,7 +2,7 @@
 
 I'm an aspiring web developer, currently learning and practicing **HTML**, **CSS**, and **JavaScript**. I'm really excited about creating websites and building something cool from scratch! I’m eager to expand my skills, improve my knowledge, and gain more experience in web development.
 
-## 🚀 What I'm working on:
+## 🌱 What I'm working on:
 - Practicing and improving my **HTML**, **CSS** and **Git** skills.
 - Learning **JavaScript**.
 
